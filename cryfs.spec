@@ -4,7 +4,7 @@
 Summary:       Cryptographic filesystem for the cloud
 Name:          cryfs
 Epoch:         1
-Version:       0.10.3
+Version:       0.11.0-rc1
 Release:       1%{?dist}
 License:       LGPLv3
 URL:           https://www.cryfs.org/
