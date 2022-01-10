@@ -22,6 +22,7 @@ BuildRequires: openssl-devel
 BuildRequires: python-unversioned-command
 BuildRequires: python3
 BuildRequires: python3-pip
+BuildRequires: python3-setuptools
 
 Provides:      cryfs(bin) = %{epoch}:%{version}-%{release}
 Provides:      cryfs-unmount(bin) = %{epoch}:%{version}-%{release}
